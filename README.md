@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/darshan-vaishya-ba99001a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-vaishya-ba99001a9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darzi" height="30" width="40" /></a>
 <a href="https://hashnode.com/@darshanvaishya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@darshanvaishya" height="30" width="40" /></a>
-</p><br>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
