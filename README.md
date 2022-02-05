@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Forkify Project**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and React**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
