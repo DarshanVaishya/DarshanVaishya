@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"><br>
 
-- 🔭 I’m currently working on **Forkify Project**
+- 🔭 I’m currently working on **[Forkify Project](https://github.com/DarshanVaishya/forkify-app)**
 
 - 🌱 I’m currently learning **TypeScript and React**
 
