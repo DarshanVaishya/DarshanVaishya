@@ -35,8 +35,8 @@
 [![Darshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=darshanvaishya&bg_color=ffffff&line=9be9a8&color=216e39&point=216e39)](https://github.com/darshanvaishya)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshanvaishya&show_icons=true&locale=en" alt="darshanvaishya" style="width: 48%; display: inline; padding: 0"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanvaishya&" alt="darshanvaishya" style="width: 48%; display: inline; padding: 0"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshanvaishya&show_icons=true&locale=en" alt="darshanvaishya" style="width: 47%;"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanvaishya&" alt="darshanvaishya" style="width: 47%;"/>
 </p>
 
 
