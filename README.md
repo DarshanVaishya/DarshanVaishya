@@ -4,7 +4,10 @@
 
 - 🔭 I’m currently working on **[Forkify Project](https://github.com/DarshanVaishya/forkify-app)**
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning:
+  - **TypeScript** 
+  - **React**
+  - **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
@@ -36,7 +39,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshanvaishya&show_icons=true&locale=en" alt="darshanvaishya" style="width: 47%;"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanvaishya&" alt="darshanvaishya" style="width: 47%;"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanvaishya&" alt="darshanvaishya" style="width: 47%;"/>
 </p>
 
 
