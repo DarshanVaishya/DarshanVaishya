@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"><br>
 
-- 🔭 I’m currently working on **[Forkify Project](https://github.com/DarshanVaishya/forkify-app)**
+- 🔭 I’m currently working on **[Natours Project](https://github.com/DarshanVaishya/natours)**
 
 - 🌱 I’m currently learning:
   - **TypeScript** 
-  - **React**
+  - **SASS**
   - **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **web development projects**
