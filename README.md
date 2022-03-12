@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on **[Natours Project](https://github.com/DarshanVaishya/natours)**
 
 - 🌱 I’m currently learning:
+  - **React**
   - **TypeScript** 
-  - **SASS**
   - **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **web development projects**
