@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning:
   - **React**
-  - **TypeScript** 
   - **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **web development projects**
